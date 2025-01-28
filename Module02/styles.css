@@ -12,9 +12,9 @@ aside {
   display: inline-block;
   top: 30px;
   right: 10px;
-  border-right: solid#444466;
+  border-right: solid #9e006c;
   border-right-width: 10px;
-  padding: 5px
+  padding: 5px;
 }
 aside::first-line {
   font-weight: bold;
@@ -22,6 +22,7 @@ aside::first-line {
 h1 {
   text-align: left;
   display: inline-block;
+  font-size: 40px;
 }
 
 article {
@@ -39,7 +40,7 @@ h2 {
 section {
   margin-bottom: 10px;
   padding: 5px;
-  border: solid green;
+  border: solid #478778;
   border-left-width: 20px;
   background-color: #ffffee;
 }

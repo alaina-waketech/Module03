@@ -10,11 +10,11 @@ header {
 aside {
   text-align: right;
   display: inline-block;
-  position: absolute;
   top: 30px;
   right: 10px;
   border-right: solid#444466;
   border-right-width: 10px;
+  padding: 5px
 }
 aside::first-line {
   font-weight: bold;
